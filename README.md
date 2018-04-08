@@ -1,5 +1,6 @@
 # -imitation-Sina-micro-blog-personal-page 
-I use a viewer plug-in  to make it possible to show the picture in personal page like below.  
+I make a imitation of sina micro-blog my personal page. all code is by myself.If you careful see. you can find the difference with real         one.   
+I use a viewer plug-in  to make it possible to show the picture in personal page like below.    
 ![picture](imagin/1.png)
 You can use it to rotary enlargement and reduction etc just by the code below and with id like this.  
 ```
