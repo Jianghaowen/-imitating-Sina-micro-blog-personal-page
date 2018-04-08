@@ -2,7 +2,8 @@
 I make a imitation of sina micro-blog my personal page. all code is by myself.If you careful see. you can find the difference with real         one.   
 I use a viewer plug-in  to make it possible to show the picture in personal page like below.    
 ![picture](imagin/1.png)
-You can use it to rotary enlargement and reduction etc just by the code below and with id like this.  
+You can use it to rotary enlargement and reduction etc just by the code below and with id like this.      
+pay attention you need change different id for wrap <img> parent element.and let the id like $('#yourid').viewer();
 ```
 <script>   
    $(document).ready(function(){
