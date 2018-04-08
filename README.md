@@ -4,7 +4,7 @@ I use a viewer plug-in  to make it possible to show the picture in personal page
 You can use it to rotary enlargement and reduction etc       
 ![picture](imagin/1.png)
 If you want
-by the code below and with id like this,other picture can use this function.    
+by add the code below in index.html and with id like below,other picture can use this function.              
 pay attention you need change different id for wrap <img> parent element.and let the id like $('#yourid').viewer();
 ```
 <script>   
