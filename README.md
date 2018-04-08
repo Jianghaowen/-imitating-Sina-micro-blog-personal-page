@@ -1,2 +1,26 @@
-# -imitation-Sina-micro-blog-personal-page
-I use Js css html to make a Sina micro-blog .You can find the creature is really like a real one.
+# -imitation-Sina-micro-blog-personal-page 
+I use a viewer plug-in  to make it possible to show the picture in personal page like below.  
+![picture](imagin/1.png)
+You can use it to rotary enlargement and reduction etc just by the code below and with id like this.  
+```
+<script>   
+   $(document).ready(function(){
+			           $('#viewer').viewer();
+});
+</script>
+```
+You can use this below picture button to get the music player to play music for personal page.  
+![picture](imagin/2.png)  
+![picture](imagin/3.png)  
+And you can by replace the code from index.html below that to change the song sheet.      
+just get into NetEase cloud music page and login .  
+then find your song sheet chose Outer chain player .  
+  Then find the biggest size one of iframe and copy the code to replace below one in index.html.    
+```
+<iframe height=281 width=500 src='http://player.youku.com/embed/XNTAzMDM2NjI4' frameborder=0 'allowfullscreen'></iframe>
+```
+You can find don't just only simgle page.If you chose some button you can find some real popup like below.    
+![picture](imagin/KRMU9HVIO[8K7SSG$W@~GCT.png)
+![picture](imagin/4.png)     
+   And if you click some other button or link ,you will find you get into the real website.  
+If you have some any question you can give me commit in github.Sincerely thank you.  
