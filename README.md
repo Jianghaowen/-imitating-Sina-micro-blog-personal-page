@@ -23,4 +23,4 @@ You can find don't just only simgle page.If you chose some button you can find s
 ![picture](imagin/KRMU9HVIO[8K7SSG$W@~GCT.png)
 ![picture](imagin/4.png)     
    And if you click some other button or link ,you will find you get into the real website.  
-If you have some any question you can give me comment in github.Sincerely thank you.  
+If you have some any question you can give me email to 534878350@qq.com.Sincerely thank you.  
