@@ -1,8 +1,10 @@
 # -imitation-Sina-micro-blog-personal-page 
 I make a imitation of sina micro-blog my personal page. all code is by myself.If you careful see. you can find the difference with real         one.   
-I use a viewer plug-in  to make it possible to show the picture in personal page like below.    
+I use a viewer plug-in  to make it possible to show the picture in personal page like below.       
+You can use it to rotary enlargement and reduction etc       
 ![picture](imagin/1.png)
-You can use it to rotary enlargement and reduction etc just by the code below and with id like this.      
+If you want
+by the code below and with id like this,other picture can use this function.    
 pay attention you need change different id for wrap <img> parent element.and let the id like $('#yourid').viewer();
 ```
 <script>   
