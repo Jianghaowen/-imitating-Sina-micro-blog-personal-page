@@ -3,8 +3,8 @@ I make a imitation of sina micro-blog my personal page. all code is by myself.If
 I use a viewer plug-in  to make it possible to show the picture in personal page like below.               
 You can use it to rotary enlargement and reduction etc              
 ![picture](imagin/1.png)
-If you want to add more picture to use this function.        
-by add the code below in index.html and with id like below,other picture can use this function.                     
+If you want to add more picture to use this function.            
+by add the code below in index.html and with id like below,other picture can use this function.             
 pay attention you need change different id for wrap <img> parent element.and let the id like $('#yourid').viewer();      
 ```
 <script>   
