@@ -21,9 +21,9 @@ You can use this below picture button to get the music player to play music for 
 And you can by replace the code from index.html below that to change the song sheet.      
 just get into NetEase cloud music page and login .  
 then find your song sheet chose outer chain player .  
-  Then find the biggest size one of iframe and copy the code to replace below one in index.html.    
+  Then find the biggest size one of iframe and copy the code to replace below one in index.html. remember to add id="music4" in your copy code.
 ```
-<iframe height=281 width=500 src='http://player.youku.com/embed/XNTAzMDM2NjI4' frameborder=0 'allowfullscreen'></iframe>
+<iframe id="music4" height=281 width=500 src='http://player.youku.com/embed/XNTAzMDM2NjI4' frameborder=0 'allowfullscreen'></iframe>
 ```
 You can find don't just only simgle page.If you chose some button you can find some real popup like below.    
 ![picture](imagin/KRMU9HVIO[8K7SSG$W@~GCT.png)
