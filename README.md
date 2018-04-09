@@ -20,7 +20,7 @@ You can use this below picture button to get the music player to play music for 
 ![picture](imagin/3.png)  
 And you can by replace the code from index.html below that to change the song sheet.      
 just get into NetEase cloud music page and login .  
-then find your song sheet chose Outer chain player .  
+then find your song sheet chose outer chain player .  
   Then find the biggest size one of iframe and copy the code to replace below one in index.html.    
 ```
 <iframe height=281 width=500 src='http://player.youku.com/embed/XNTAzMDM2NjI4' frameborder=0 'allowfullscreen'></iframe>
