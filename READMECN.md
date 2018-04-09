@@ -17,9 +17,9 @@
     
 并且你可以登录网易云音乐网页版找到你自己的歌单， 
 然后找到外链播放器选项进入把iframe最大尺寸的代码复制，     
-然后替代index.html中的如下代码就可以了      
+然后替代index.html中的如下代码就可以了，记得加入id=“music4”
 ```
-<iframe height=281 width=500 src='http://player.youku.com/embed/XNTAzMDM2NjI4' frameborder=0 'allowfullscreen'></iframe>
+<iframe  id="music4" height=281 width=500 src='http://player.youku.com/embed/XNTAzMDM2NjI4' frameborder=0 'allowfullscreen'></iframe>
 ```
 你点击链接和按钮可以发现一些弹窗，弹窗也是仿微博的。
 ![picture](imagin/KRMU9HVIO[8K7SSG$W@~GCT.png)
