@@ -1,7 +1,7 @@
 # -imitation-Sina-micro-blog-personal-page
 
 I make a imitation of sina micro-blog my personal page. all code is by myself.If you careful see. you can find the difference with real one.        
-You can see the effect http://jianghaowen.com/xinlang/     here       
+You can see the effect http://jianghaowen.com/xinlang/          
 I use a viewer plug-in  to make it possible to show the picture in personal page like below.               
 You can use it to rotary enlargement and reduction etc              
 ![picture](imagin/1.png)
