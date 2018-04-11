@@ -1,4 +1,4 @@
-# -imitation-Sina-micro-blog-personal-page
+# -imitating-Sina-micro-blog-personal-page
 我使用js css html自己敲了一个自己的微博主页，你可以发现真的特别像真的，仔细看可以发现细微的差别。
 你能看到效果通过http://jianghaowen.com/xinlang/
 并且我使用了一个叫viewer的插件，如下图这个插件功能很强大可以实现翻转放大缩小等等功能效果可以看下图          
