@@ -1,4 +1,4 @@
-# -imitation-Sina-micro-blog-personal-page
+# -imitating-Sina-micro-blog-personal-page
 
 I make a imitation of sina micro-blog my personal page. all code is by myself.If you careful see. you can find the difference with real one.        
 You can see the effect http://jianghaowen.com/xinlang/          
