@@ -83,17 +83,26 @@ $("#search").focus(
    <a href="http://weibo.com/" id="tubiao11">
      <span class="tubiao10">私信</span>
    </a>
+  <div style="display:inline;" class="tubiao12">
    <a href="http://weibo.com/p/1005053178724943/home?from=page_100505&mod=TAB&is_all=1#place" id="tubiao12">
      <span class="tubiao10">=</span>
    </a>
-  <div>
-  <ul id="xianshi">
+  <ul id="xianshi" class="xianshi">
   <li class="xianshi1" id="cai5"><a href="javascript:openLogin();" id="cai1">悄悄关注</a></li>
   <li class="xianshi1" id="cai6"><a href="javascript:openLogin();" id="cai2">分享到微博</a></li>
   <li class="xianshi1" id="cai7"><a href="javascript:openLogin();" id="cai3">加入黑名单</a></li>
   <li class="xianshi1" id="cai8"><a href="javascript:openLogin();" id="cai4">举报他</a></li>
   </ul>
   </div>
+  </div>
+  <script>
+	  $(".tubiao12").hover(function(){
+			$(".xianshi").css("display","block");
+},
+      function(){
+			$(".xianshi").css("display","none");
+});
+   </script>
   </div>
   <div id="baisebeijing">
    <div id="shang1"> 
@@ -1131,6 +1140,7 @@ $("#search").focus(
 	         <em class="zhong22">c</em>
 	</a>
   </span>
+  
   <a id="zhong22" href="javascript:openLogin();">
    下一页
   </a>
@@ -1873,68 +1883,6 @@ $(document).ready(function(){
 							 $('#viewer8').viewer();
 							 $('#viewer9').viewer();
 });
-</script>
-<script>
-  $("#tubiao12").mouseover(
-    function(){
-               $("#xianshi").css('display','block');
-    }
-);
-$("#tubiao12").mouseout(
-    function(){
-               $("#xianshi").css('display','none');
-    }
-);
-  $("#xianshi").mouseover(
-    function(){
-               $("#xianshi").css('display','block');
-    }
-);
-$("#xianshi").mouseout(
-    function(){
-               $("#xianshi").css('display','none');
-    }
-);
-$("#cai5").mouseover(
-    function(){
-               $("#cai1").css('color','#eb7350');
-    }
-);
-$("#cai6").mouseover(
-    function(){
-               $("#cai2").css('color','#eb7350');
-    }
-);
-$("#cai7").mouseover(
-    function(){
-               $("#cai3").css('color','#eb7350');
-    }
-);
-$("#cai8").mouseover(
-    function(){
-               $("#cai4").css('color','#eb7350');
-    }
-);
-$("#cai5").mouseout(
-    function(){
-               $("#cai1").css('color','#333');
-    }
-);
-$("#cai6").mouseout(
-    function(){
-               $("#cai2").css('color','#333');
-    }
-);
-$("#cai7").mouseout(
-    function(){
-               $("#cai3").css('color','#333');
-    }
-);
-$("#cai8").mouseout(
-    function(){
-               $("#cai4").css('color','#333');
-    }
-);
 </script>
 <div id="sixing">
  <a href="javascript:void(0)" id="sixing6">
