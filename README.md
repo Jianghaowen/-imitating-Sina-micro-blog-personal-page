@@ -29,4 +29,14 @@ You can find don't just only simgle page.If you chose some button you can find s
 ![picture](imagin/KRMU9HVIO[8K7SSG$W@~GCT.png)
 ![picture](imagin/4.png)     
    And if you click some other button or link ,you will find you get into the real website.  
-If you have some any question you can give me email to 534878350@qq.com.   Sincerely thank you.  
+If you have some any question you can give me email to 534878350@qq.com.   Sincerely thank you.         
+# Adding 2.0 version
+Add some js and some details of page.       
+And add some page like search.html search1.html search2.html single.html,You can find all like a real one         
+You can use it to make theme of web page.       
+You can find the effect on below link.         
+http://jianghaowen.com/xinlang/single.html            
+http://jianghaowen.com/xinlang/search.html          
+http://jianghaowen.com/xinlang/search1.html       
+http://jianghaowen.com/xinlang/search2.html
+

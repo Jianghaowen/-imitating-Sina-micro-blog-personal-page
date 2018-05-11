@@ -26,4 +26,14 @@
 ![picture](imagin/4.png)            
     
 注意你点击一些链接或者弹窗可能访问到真实的主页。
-如果你有任何问题可以联系我的QQ邮箱534878350@qq.com，谢谢。
+如果你有任何问题可以联系我的QQ邮箱534878350@qq.com，谢谢。           
+# -更新2.0版本
+2.0版本增加了一些js实现和一些细节          
+并且增加了一些页面包括search.html single.html search1.html search2.html，页面看着就和真的一样。           
+你能使用这些页面做成动态的网页主题。             
+你能看到效果在如下链接。                                    
+http://jianghaowen.com/xinlang/single.html        
+http://jianghaowen.com/xinlang/search.html        
+http://jianghaowen.com/xinlang/search1.html       
+http://jianghaowen.com/xinlang/search2.html        
+
